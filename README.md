@@ -1,7 +1,7 @@
 # Piano_Cam
 
 ## Overview
-The **Piano Cam** is an interactive application that allows users to play a virtual piano using hand gestures captured via a webcam. Leveraging **MediaPipe Hands** for hand tracking and **OpenCV** for real-time video processing, this project transforms your hand movements into piano notes. Each key on the virtual piano corresponds to a specific note, and when your hand touches a key, the corresponding sound is played using **Pygame**.
+The **Piano Cam** is an interactive application that allows users to play a virtual piano using hand gestures captured via a webcam. Leveraging **MediaPipe Hands** for hand tracking and **OpenCV** for real-time video processing, this project transforms your hand movements into piano notes `(Which I have already created and stored in the same directory)`. Each key on the virtual piano corresponds to a specific note, and when your hand touches a key, the corresponding sound is played using **Pygame**.
 
 This project is a fun and innovative way to explore the intersection of computer vision, machine learning, and music. It’s perfect for beginners and enthusiasts interested in AI, computer vision, or music technology.
 
